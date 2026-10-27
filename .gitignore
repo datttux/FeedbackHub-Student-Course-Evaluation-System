@@ -1,0 +1,18 @@
+# Compiled class files
+target/
+*.class
+
+# Tomcat temporary working directories
+tomcat.*/
+server.pid
+server.log
+
+# IDE & OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
